@@ -15,7 +15,7 @@ export const siteConfig = {
   gallery: [
     { image: "https://miaoda-conversation-file.s3cdn.medo.dev/user-cv7a3ebtljpc/app-dqwf7fmbtx4x/20260816/3.jpg", caption: "That smile ❤️",                rotation: -3 },
     { image: "https://miaoda-conversation-file.s3cdn.medo.dev/user-cv7a3ebtljpc/app-dqwf7fmbtx4x/20260816/1.jpg", caption: "That's my Golumolu ❤️",        rotation:  2 },
-    { image: "https://miaoda-conversation-file.s3cdn.medo.dev/user-cv7a3ebtljpc/app-dqwf7fmbtx4x/20260816/5.jpg", caption: "Meri pasandida aurat ❤️",      rotation: -1.5 },
+    { image: "https://miaoda-conversation-file.s3cdn.medo.dev/user-cv7a3ebtljpc/app-dqwf7fmbtx4x/20260816/5.jpg", caption: "Just look at you 🥹❤️",      rotation: -1.5 },
     { image: "https://miaoda-conversation-file.s3cdn.medo.dev/user-cv7a3ebtljpc/app-dqwf7fmbtx4x/20260816/4.jpg", caption: "Meri pasandida aurat ❤️",      rotation:  3 },
     { image: "https://miaoda-conversation-file.s3cdn.medo.dev/user-cv7a3ebtljpc/app-dqwf7fmbtx4x/20260816/6.jpg", caption: "Okay, stop being this pretty 😂",           rotation: -2 },
   ],
